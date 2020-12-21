@@ -108,6 +108,7 @@
     "react-native-iphone-x-helper": "^1.2.1",
     "react-native-parsed-text": "0.0.22",
     "react-native-typing-animation": "^0.1.7",
+    "react-native-lightbox": "git+https://github.com/trinhviettoan1999/react-native-lightbox.git",
     "uuid": "3.4.0"
   },
   "peerDependencies": {
